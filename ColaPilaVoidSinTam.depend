@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1689181262 source:d:\unla pc\2do aÑo\materias\1er cuatrimestre\2 -algoritmos y estructuras de datos (8609 tn 18 a 22hs martes presencial)\proyectos de practica para el final\colapilavoidsintam\cola.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cola.h"
+	"estudiante.h"
+
+1689183025 source:d:\unla pc\2do aÑo\materias\1er cuatrimestre\2 -algoritmos y estructuras de datos (8609 tn 18 a 22hs martes presencial)\proyectos de practica para el final\colapilavoidsintam\main.c
+	<stdio.h>
+	<stdlib.h>
+	"cola.h"
+	"pila.h"
+	"estudiante.h"
+
+1689174084 source:d:\unla pc\2do aÑo\materias\1er cuatrimestre\2 -algoritmos y estructuras de datos (8609 tn 18 a 22hs martes presencial)\proyectos de practica para el final\colapilavoidsintam\estudiante.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"estudiante.h"
+
+1689174076 d:\unla pc\2do aÑo\materias\1er cuatrimestre\2 -algoritmos y estructuras de datos (8609 tn 18 a 22hs martes presencial)\proyectos de practica para el final\colapilavoidsintam\estudiante.h
+
+1689182064 d:\unla pc\2do aÑo\materias\1er cuatrimestre\2 -algoritmos y estructuras de datos (8609 tn 18 a 22hs martes presencial)\proyectos de practica para el final\colapilavoidsintam\cola.h
+
+1689182995 source:d:\unla pc\2do aÑo\materias\1er cuatrimestre\2 -algoritmos y estructuras de datos (8609 tn 18 a 22hs martes presencial)\proyectos de practica para el final\colapilavoidsintam\pila.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"pila.h"
+	"estudiante.h"
+
+1689182092 d:\unla pc\2do aÑo\materias\1er cuatrimestre\2 -algoritmos y estructuras de datos (8609 tn 18 a 22hs martes presencial)\proyectos de practica para el final\colapilavoidsintam\pila.h
+
